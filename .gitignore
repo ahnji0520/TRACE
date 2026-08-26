@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.log
+*.bak
+*.error
+.env
+wandb/
+checkpoints/
+outputs/
+output/
+*.safetensors
+*.pt
+*.bin
+*.pkl
+*.xlsx
